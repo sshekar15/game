@@ -5,3 +5,4 @@
 #couldn't add feature since i never finished
 #https://www.youtube.com/watch?v=Luf2Kr5s3BM tutorial i used
 #bugs- the animtaion glitches when running more than a second, background pixcels are too small, and it lets me move off background onto gray area
+#it wont work now cause characterbody2d isnt working with node2d??
